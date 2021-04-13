@@ -14,7 +14,7 @@
 
 [Louisa Janßen](https://github.com/louisajanssen "Louisa Janßen")
 
-[Ming Wen](https://github.com/level1man "Ming Wen")
+[Ming Wen](https://github.com/mingwencode "Ming Wen")
 
 # Introduction
 Triceratop Republic is a single-page e-commerce HTML5 web application designed to showcase clothing products. The application includes an overview with general product information, a related products section to compare items and add them to a personal outfit list. Also contains a question and answers section as well as ratings and reviews.
